@@ -1,6 +1,6 @@
 # DFennec (Álvaro Lozano)<br>**`Software Developer/Cross-platform Fullstack Developer`**
 
-**` 👨‍💻About me </> `**
+##### ` 👨‍💻About me </> `
 
 <p>
 Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Lozano</a>. I am a Software Developer and former Translator/Interpreter based in Spain. I have always been interested in technology and computers but it wasn't until a few years ago, after I finished my Bachelor of Arts in Translation, that I decided to take the plunge and swap careers by pursuing an Associate's Degree (might also be known as higher vocational degree) in Cross-platform Development. Below you may find some of the projects and repos I've made throughout my nascent coding foray as well as a few of my key points as a professional.
@@ -8,8 +8,8 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 <hr>
 
-**⚙️Languages and tools 🔨**
-<br>
+## ⚙️Languages and tools 🔨
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
@@ -24,7 +24,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 <hr>
 
-**✨ Featured Projects ✦**
+### ✨ Featured Projects ✦
 
 
 
