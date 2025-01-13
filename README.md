@@ -42,7 +42,6 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
     </a>
 
     By the way, I speak Spanish, English, and Japanese to a somewhat basic level, so feel free to hit me up in the language of your preference.
-🇬🇧
   </p>
 
 <!--
