@@ -1,6 +1,6 @@
-# DFennec<br>(Álvaro Lozano)
+# DFennec<br>(Álvaro Lozano)**`Software Developer/Cross-platform Fullstack Developer`**
 
-`Software Developer/Cross-platform Fullstack Developer`
+
 
 <hr>
 
