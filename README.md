@@ -40,7 +40,9 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
       <img src="https://custom-icon-badges.demolab.com/badge/Mail-FF0F29.svg?logo=gmail&logoColor=white" 
            alt="Álvaro's Gmail Address">
     </a>
-    <br> By the way, I speak Spanish, English, and Japanese to a somewhat basic level, so feel free to hit me up in the language of your preference.
+    <br> 
+    `By the way, I speak Spanish, English, and Japanese to a somewhat basic level, so feel free to hit me up in the language of your preference.`
+    🇪🇸
   </p>
 
 <!--
@@ -49,7 +51,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DFennec&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DFennec&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-`Take a look at this random quote! I love them!`
+###### Take a look at this random quote! I love them!
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 Thank you for paying my profile a visit!
 <!--
