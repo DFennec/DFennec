@@ -31,12 +31,12 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 **💬Get in touch with me via🗨️**
   <p>
-    <a align="left" href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoSource=feather&logoColor=white" 
+    <a href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
+      <img align="left" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoSource=feather&logoColor=white" 
            alt="Álvaro's LinkedIn">
     </a>
-    <a align="left" href="mailto:8a89l89g9@gmail.com?subject=Get in touch with me!&amp;body=Hello, Álvaro. I've come across your portfolio...">
-      <img src="https://custom-icon-badges.demolab.com/badge/Mail-FF0F29.svg?logo=gmail&logoColor=white" 
+    <a href="mailto:8a89l89g9@gmail.com?subject=Get in touch with me!&amp;body=Hello, Álvaro. I've come across your portfolio...">
+      <img align="right" src="https://custom-icon-badges.demolab.com/badge/Mail-FF0F29.svg?logo=gmail&logoColor=white" 
            alt="Álvaro's Gmail Address">
     </a>
   </p>
