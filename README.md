@@ -29,9 +29,9 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 <hr>
 
-# 💬Get in touch with me via🗨️
+**💬Get in touch with me via🗨️**
   <p>
-    <a href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
+    <a align="center" href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoSource=feather&logoColor=white" 
            alt="Álvaro's LinkedIn">
     </a>
@@ -47,7 +47,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DFennec&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DFennec&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-### ✍️ Random Dev Quote
+✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 <!--
 ### 🔝 Top Contributed Repo
