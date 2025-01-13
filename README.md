@@ -39,6 +39,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
       <img src="https://custom-icon-badges.demolab.com/badge/Mail-FF0F29.svg?logo=gmail&logoColor=white" 
            alt="Álvaro's Gmail Address">
     </a>
+    By the way, I speak Spanish, English, and Japanese to a somewhat basic level, so feel free to hit me up in the language of your preference.
   </p>
 
 <!--
