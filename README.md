@@ -1,8 +1,4 @@
-# DFennec<br>(Álvaro Lozano)**`Software Developer/Cross-platform Fullstack Developer`**
-
-
-
-<hr>
+# DFennec (Álvaro Lozano)<br>**`Software Developer/Cross-platform Fullstack Developer`**
 
 # 👨‍💻About me </>
 
