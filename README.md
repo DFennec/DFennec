@@ -24,7 +24,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 <hr>
 
-### ✨ Featured Projects ✦
+## ✨ Featured Projects ✦
 
 
 
