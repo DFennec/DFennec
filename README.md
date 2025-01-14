@@ -40,7 +40,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 ## ✨ Featured Projects ✦
 
-
+  Here I'll include my most noteworthy projects. Although, I've only built simple programmes so far. If you'd like you can <a href="https://github.com/DFennec?tab=repositories">check my public repos</a>.
 
 <hr>
 
