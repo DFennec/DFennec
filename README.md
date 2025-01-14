@@ -63,7 +63,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 -->
 ###### Take a look at this random quote! I love them!
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-Thank you for paying my profile a visit!
+<br>Thank you for paying my profile a visit!
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DFennec&limit=5&theme=dark&combine_all_yearly_contributions=true)
