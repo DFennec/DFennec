@@ -42,7 +42,10 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
   Here I will include my most noteworthy projects. Although, I have only built simple programs so far. If you like, you can <a href="https://github.com/DFennec?tab=repositories">check my public repositories</a>. 
   To that same effect, I will also use my <a href="https://dfennec.github.io/DFennec.github.io/">GitHub Pages site</a> to feature them in a more visually appealing fashion. 
-<a href="https://github.com/DFennec/nominas"><img align="left" alt="HTML5" width="1000px" src="https://github.com/DFennec/nominas/blob/master/Thumbnail.png?raw=true"/></a>
+<a href="https://github.com/DFennec/nominas"><img align="left" alt="HTML5" width="400px" src="https://github.com/DFennec/nominas/blob/master/Thumbnail.png?raw=true"/></a>
+<img align="left" alt="HTML5" width="200px" src=""/>
+<a href=""><img align="left" alt="HTML5" width="400px" src=""/></a>
+
 
 <hr>
 
