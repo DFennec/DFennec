@@ -47,6 +47,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 </p>
 
 <hr>
+<br><br><br><br><br>
 <br>
 <br>
 <br>
