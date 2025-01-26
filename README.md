@@ -44,7 +44,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
   To that same effect, I will also use my <a href="https://dfennec.github.io/DFennec.github.io/">GitHub Pages site</a> to feature them in a more visually appealing fashion.
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   <strong size="24px"> Payroll management app </strong>
+   <strong> <big> Payroll management app </big> </strong>
    <br>
    
   <a href="https://github.com/DFennec/nominas"><img align="left" alt="Nominas" width="400px" src="https://github.com/DFennec/nominas/blob/master/Thumbnail.png?raw=true"/></a>
