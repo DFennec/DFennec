@@ -60,7 +60,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
   <br><br><br><br><br><br><br>
   
   ![Flask](https://img.shields.io/badge/flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=AAAAAA)
-  <strong> **'Third Project'** </strong>
+  <strong> **Third Project** </strong>
   
   <a href="https://github.com/DFennec/"><img align="left" alt="placeholder" width="400px" src="thumbnail"/></a>
 
