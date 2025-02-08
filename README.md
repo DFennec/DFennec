@@ -59,6 +59,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
 <hr>
 
+<br><br><br><br><br><br><br><br>
 **💬Get in touch with me via🗨️**
   <p>
     <a href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
