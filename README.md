@@ -55,6 +55,14 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
   
   <a href="https://github.com/DFennec/guguel"><img align="left" alt="Guguel" width="400px" src="https://github.com/DFennec/Guguel/blob/master/thumbnail.png?raw=true"/></a>
 
+
+  <br><br><br><br><br><br><br><br><br>
+  
+  ![Flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=ffdd54)
+  <strong> **'Third Project'** </strong>
+  
+  <a href="https://github.com/DFennec/guguel"><img align="left" alt="Guguel" width="400px" src="https://github.com/DFennec/Guguel/blob/master/thumbnail.png?raw=true"/></a>
+
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 <hr>
