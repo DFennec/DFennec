@@ -48,6 +48,11 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
    <br>
    
   <a href="https://github.com/DFennec/nominas"><img align="left" alt="Nominas" width="400px" src="https://github.com/DFennec/nominas/blob/master/Thumbnail.png?raw=true"/></a>
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   <strong> **'Guguel'** </strong>
+   <br>
+  ![image](https://github.com/user-attachments/assets/cc62eda6-23ac-4394-bf0e-44a4bb6d4310)
 
 <br><br><br><br><br><br><br><br>
 
