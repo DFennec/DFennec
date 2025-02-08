@@ -53,8 +53,6 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <strong> **'Guguel'** </strong>
   
-  <br>
-  
   <a href="https://github.com/DFennec/guguel"><img align="left" alt="Guguel" width="400px" src="https://github.com/DFennec/Guguel/blob/master/thumbnail.png?raw=true"/></a>
 
 <br><br><br><br><br><br><br><br>
