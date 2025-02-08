@@ -56,10 +56,9 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
   <a href="https://github.com/DFennec/guguel"><img align="left" alt="Guguel" width="400px" src="https://github.com/DFennec/Guguel/blob/master/thumbnail.png?raw=true"/></a>
 
 <br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br>
 <hr>
 
-<br><br><br><br><br><br><br><br>
 **💬Get in touch with me via🗨️**
   <p>
     <a href="https://www.linkedin.com/in/l-alvaro/" target="_blank" rel="noopener noreferrer">
