@@ -9,6 +9,8 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 </p>
 </details>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ALozano.png" alt="Álvaro's THM Badge" />
+
 ## ⚙️Languages and tools 🔨
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -19,7 +21,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 <br><br>
 
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ALozano.png" alt="Álvaro's Badge" />
+
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) <br>
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
