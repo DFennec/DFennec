@@ -81,7 +81,7 @@ Hi there, my name is <a href="https://www.linkedin.com/in/l-alvaro/">Álvaro Loz
 
     By the way, I speak Spanish, English, and Japanese to a somewhat basic level, so feel free to hit me up in the language of your preference.
   </p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6685170" style='border:none;'></iframe>
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DFennec&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
